@@ -5,3 +5,5 @@ build
 .allure
 
 .idea
+
+Allure2Gradle.iml
