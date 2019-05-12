@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+    id 'io.qameta.allure' version '2.7.0'
+}
+
+allure {
+    version = '2.10.0'
+    downloadLinkFormat = 'https://dl.bintray.com/qameta/maven/io/qameta/allure/allure-commandline/%s/allure-commandline-%<s.zip'
+}
+
+group 'Allure2'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation ('io.qameta.allure:allure-okhttp3:2.10.0')
+    testRuntimeOnly group: 'io.qameta.allure', name: 'allure-junit5', version: '2.10.0'
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.0.0-alpha-1'
+    compile group: 'io.github.bonigarcia', name: 'webdrivermanager', version: '3.5.0'
+}
