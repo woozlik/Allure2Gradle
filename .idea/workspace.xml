@@ -111,7 +111,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -141,24 +141,6 @@
             <path>
               <item name="Allure2Gradle" type="b2602c69:ProjectViewProjectNode" />
               <item name="Allure2Gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Allure2Gradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Allure2Gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Allure2Gradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Allure2Gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Allure2Gradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Allure2Gradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-              <item name="allure-report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Allure2Gradle" type="b2602c69:ProjectViewProjectNode" />
@@ -216,6 +198,9 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -347,11 +332,14 @@
     <history-entry file="SmavaLandingTests - 2019.05.12 at 13h 38m 42s.xml">
       <configuration name="SmavaLandingTests" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="SmavaLandingTests - 2019.05.12 at 14h 00m 12s.xml">
+      <configuration name="SmavaLandingTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1420" height="793" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -360,7 +348,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46460176" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46460176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,6 +367,11 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/wait/WebElementWait.java">
